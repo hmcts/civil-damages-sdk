@@ -1,3 +1,5 @@
+# This repo is now deprecated, [civil-sdk](https://github.com/hmcts/civil-sdk) is used instead.
+
 # Unspecified civil claims customised version of CCD Docker :whale:
 
 - [Prerequisites](#prerequisites)
